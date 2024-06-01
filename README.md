@@ -39,4 +39,3 @@ Developing ETL scripts
 Establishing a schedule for the data loading process
 6. Part Three: Data Analysis
 In the last part of this project, establish a connection between the Snowflake data warehouse and the BI tool (Metabase). This connection allows for the creation and display of dashboards and reports in Metabase, utilizing the data stored in Snowflake.
-
